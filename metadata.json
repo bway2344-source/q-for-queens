@@ -1,0 +1,6 @@
+{
+  "name": "Q For Queens",
+  "description": "An affordable luxury jewelry storefront featuring direct Shopify schema support, curated collections, dynamic item routing, inventory management, and an interactive checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
